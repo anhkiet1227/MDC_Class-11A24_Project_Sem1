@@ -12,4 +12,4 @@ Thanks to song: When Can I See You Again? - Owl City
 
 Play online at: https://scratch.mit.edu/projects/537967784/
 
-This file include sb3 file and a report file
+This file includes sb3 file and a report file

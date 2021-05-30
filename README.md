@@ -1,6 +1,6 @@
 # GameScratch3_FixIt
 
-This game was made by Sugar (anhkiet1227) in 2018 at Mạc Đĩnh Chi High School
+This game was made by Sugar (anhkiet1227) in 2018 at Mạc Đĩnh Chi High School (District 6 Hồ Chí Minh City)
 
 Thanks to:
 
